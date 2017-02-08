@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="tv1_hint">Enter your city</string>
+    <string name="btn1_name">Find</string>
+    <string name="btn2_name">Forecast</string>
+    <string name="tv2_name">20°C</string>
+    <string name="isEmpty"></string>
+
+
+
+
+</resources>
